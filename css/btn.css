@@ -1,0 +1,21 @@
+.btn {
+	display: flex;
+	background-color: #fa5a5a;
+	width: 50px;
+	height: 45px;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid rgba(0, 0, 0, 1);
+	border-radius: 25px;
+	box-shadow: 0px 5px #e04342;
+	font-size: 20px;
+	font-weight: 600;
+	text-decoration: none;
+	border: none;
+}
+
+.btn:active {
+	box-shadow: none;
+	position: relative;
+	top: 5px;
+}
