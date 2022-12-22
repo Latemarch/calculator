@@ -1,6 +1,6 @@
 import calculating from "./calculation.js"; //<<
 import display from "./display.js";
-const screen = document.querySelector(".display");
+const screen = document.querySelector(".screen");
 const btns = document.querySelector(".btns");
 
 function onClickbtn(event) {
