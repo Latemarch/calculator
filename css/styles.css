@@ -39,9 +39,6 @@
 	width: 100%;
 	height: 20%;
 }
-#num0 {
-	width: 48%;
-}
 .last-row__column {
 	display: flex;
 	justify-content: space-between;
